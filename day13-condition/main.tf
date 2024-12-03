@@ -4,7 +4,7 @@ provider "aws" {
 
 variable "instance" {
     type = bool
-    default = true
+    default = false
   
 }
 
